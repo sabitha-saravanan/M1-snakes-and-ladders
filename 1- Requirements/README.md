@@ -36,16 +36,20 @@ Due to development of many digital games, ancient board games like "snakes and l
 
 # 4W's and 1H:
   
---> WHO
-          This game can be played by people of all age groups.
---> WHERE
-          At any place with availability to keep the board and space to roll the dice.
---> WHAT  
-          Digital implementation of an ancient game of snakes and ladders.
---> WHEN
-          At times of having fun with family or fiends, to reduce stress and pressure and in learning stages for children.
---> HOW
-           A player rolls the dice and increases his pawn's position on the board till any of the player wins.
+WHO
+   This game can be played by people of all age groups.
+   
+WHERE
+   At any place with availability to keep the board and space to roll the dice.
+ 
+WHAT  
+   Digital implementation of an ancient game of snakes and ladders.
+
+WHEN
+   At times of having fun with family or fiends, to reduce stress and pressure and in learning stages for children.
+
+HOW
+   A player rolls the dice and increases his pawn's position on the board till any of the player wins.
        
    # HIGH LEVEL REQUIREMENTS:
    
