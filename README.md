@@ -1,8 +1,12 @@
 # M1-snakes-and-ladders
 
 
-  requirements    Documents detailing requirements and research
-  architecture    Documents of design details
-  implementation  All code and documentation
-  output	         Documents with test
-  images	         Documents with test
+ i) requirements    Documents detailing requirements and research
+ 
+ ii) architecture    Documents of design details
+ 
+ iii) implementation  All code and documentation
+ 
+ iv) output	         Documents with test
+ 
+ v) images	         Documents with test
