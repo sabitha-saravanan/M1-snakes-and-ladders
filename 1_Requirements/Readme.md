@@ -24,10 +24,16 @@ Different variations of exist like, if the die roll is too large when a player i
   
   ## Strengths
   
-  1) A very quick and simple game. 2) Can be played by people of any age group.3) Helps children practice counting and adding. 4) Easy to design.
+  1) A very quick and simple game.
+  2) Can be played by people of any age group.
+  3) Helps children practice counting and adding.
+  4) Easy to design.
   
   ## Weakness
-  1) Can lead to addiction in children. 2) With increase in number of players, the time delay increases. 3) The design of the board with too many snakes leads to increase in the chances of a player encountering a snake multiple times making the game long. 4). Waiting for the occurence of 1 on the dice to win a game can be very irritating.
+  1) Can lead to addiction in children.
+  2) With increase in number of players, the time delay increases.
+  3) The design of the board with too many snakes leads to increase in the chances of a player encountering a snake multiple times making the game long.
+  4) Waiting for the occurence of 1 on the dice to win a game can be very irritating.
  
  ## Opportunities
  
@@ -39,19 +45,19 @@ Different variations of exist like, if the die roll is too large when a player i
  
  # 4W's and 1H
   ## Who
-  ---
+  
   This game can be played by people of all age groups.
   ## What
-  ---
+  
   Digital implementation of an ancient game of snakes and ladders.
   ## When
-  ---
+  
   At times of having fun with family or fiends, to reduce stress and pressure and in learning stages for children.
   ## Where
-  ---
+  
   Any place with availability to keep the board and space to roll the dice.
   ## How
-  ---
+ 
   A player rolls the dice and increases his pawn's position on the board till any of the player wins.
  
   ## High level requirements
