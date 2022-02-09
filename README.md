@@ -1,5 +1,6 @@
 # M1-snakes-and-ladders
 
+## Folder and  structure
 
  i) requirements     -->  Documents detailing requirements and research
  
