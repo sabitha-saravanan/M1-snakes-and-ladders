@@ -7,6 +7,10 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 
 # Research
 
+(https://user-images.githubusercontent.com/98875588/153548253-f017221f-a311-4558-b055-486b948d39fb.jpg)
+(https://user-images.githubusercontent.com/98875588/153548291-89752cdf-a7fe-4e67-88a4-202e9204042c.jpg)
+
+
 ## History
 
 Snakes and ladders originated in India as part of a family of dice board games. The game made its way to England and was sold as "Snakes and Ladders". Then the basic concept was introduced in the United States as _Chutes_ and _Ladders_  by game publisher Milton Bradley Company in 1943. In India, the game is often played by devotees of Hindu god Vishnu during the Vaikuntha Ekadashi festival in order to stay awake during the night.
