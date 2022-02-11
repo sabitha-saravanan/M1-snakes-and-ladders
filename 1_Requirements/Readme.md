@@ -7,6 +7,8 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 
 # Research
 
+Gyan chaupar (the game of knowledge) is an ancient board game of the Indian subcontinent.It has multiple stories surrounding its origin and has several variants including moksha-pata.These games while similar to gyan chaupar in principles use certain variations of playing style and board design.
+
 ![variation image](https://user-images.githubusercontent.com/98875588/153548406-d70e5d90-5e8f-4231-9e62-f5636a133ba3.jpg)
 
 ## History
