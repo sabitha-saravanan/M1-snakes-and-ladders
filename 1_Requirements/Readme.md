@@ -75,7 +75,7 @@ Depending on the variation, if the die roll is too large, the token either remai
   ## Low level requirements
   |  ID|Description|Status|
   |---|---|---|
-  | LR01 | Good readability of the code | Implemented |
-  | LR02 | The messages printed by the game should be catchy and encourage the players to play another round | Impemented|
+  | LR01 | Good readability of code | Implemented |
+  | LR02 | The messages printed by the game should encourage the players to play another round | Impemented|
   | LR03 | The game code should be open for development | Implemented |
   
