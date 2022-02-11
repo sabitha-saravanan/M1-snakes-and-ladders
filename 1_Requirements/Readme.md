@@ -7,17 +7,18 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 
 # Research
 
-## Equipment
-
-The size of the grid most commonly used in snakes and ladders is 8x8 with maximum square value of 64, 10x10 with a maximum square value of 100 or 12x12 with a maximum square value of 144. Each player is represented by a piece token and a die is rolled to determine the random movements of a player's token.
-
 ## History
 
 Snakes and ladders originated in India as part of a family of dice board games. The game made its way to England and was sold as "Snakes and Ladders". Then the basic concept was introduced in the United States as _Chutes_ and _Ladders_  by game publisher Milton Bradley Company in 1943. In India, the game is often played by devotees of Hindu god Vishnu during the Vaikuntha Ekadashi festival in order to stay awake during the night.
 
+## Equipment
+
+The size of the grid most commonly used in snakes and ladders is 8x8 with maximum square value of 64, 10x10 with a maximum square value of 100 or 12x12 with a maximum square value of 144. Each player is represented by a piece token and a die is rolled to determine the random movements of a player's token.
+
+
 ## Variations
 
-Different variations of exist like, if the die roll is too large when a player is close to winning, the token either remains in place or goes off the final square and back again.
+Depending on the variation, if the die roll is too large, the token either remains in place or goes off the final square and back again. (For example, if a player requiring a 3 to win rolls a 5, the token moves forward three spaces, then back two spaces.) In certain circumstances (such as a player rolling a 5 when a 1 is required to win), a player can end up further away from the final square after their move, than before it.
 
    
   # SWOT Analysis
@@ -46,16 +47,16 @@ Different variations of exist like, if the die roll is too large when a player i
  # 4W's and 1H
   ## Who
   
-  This game can be played by people of all age groups.
+  This game can be played  all age people
   ## What
   
   Digital implementation of an ancient game of snakes and ladders.
   ## When
   
-  At times of having fun with family or fiends, to reduce stress and pressure and in learning stages for children.
+  At times of having fun with family or friends, to reduce stress and pressure and in learning stages for children.
   ## Where
   
-  Any place with availability to keep the board and space to roll the dice.
+   At any place with availability to keep the board and space to roll the dice.
   ## How
  
   A player rolls the dice and increases his pawn's position on the board till any of the player wins.
